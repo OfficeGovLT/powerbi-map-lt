@@ -1,0 +1,61 @@
+﻿OBJECTID;NUTS_3;APS_KODAS;APS_PAV;LAU_1;SAV_KODAS;SAV_PAV;SAV_PLOTAS;SAV_PLATUM;SAV_ILGUMA
+1;LT025;5;Panevėžio apskr.;66;66;Panevėžio r. sav.;217707;55,66621765;24,35464740
+2;LT029;9;Utenos apskr.;43;43;Zarasų r. sav.;133133;55,70361434;26,10574295
+3;LT026;6;Šiaulių apskr.;29;29;Šiaulių m. sav.;8110;55,90499728;23,32484421
+4;LT025;5;Panevėžio apskr.;57;57;Kupiškio r. sav.;108008;55,84393915;25,02806360
+5;LT023;3;Klaipėdos apskr.;25;25;Palangos m. sav.;7911;55,96905589;21,09069329
+6;LT028;8;Telšių apskr.;78;78;Telšių r. sav.;143858;55,93177056;22,37495496
+7;LT028;8;Telšių apskr.;68;68;Plungės r. sav.;110550;55,94362165;21,84778926
+8;LT023;3;Klaipėdos apskr.;56;56;Kretingos r. sav.;98930;55,97778114;21,37833220
+9;LT025;5;Panevėžio apskr.;73;73;Rokiškio r. sav.;180631;55,95483269;25,53737713
+10;LT026;6;Šiaulių apskr.;91;91;Šiaulių r. sav.;180688;55,98532758;23,11618409
+11;LT025;5;Panevėžio apskr.;67;67;Pasvalio r. sav.;128887;56,06000167;24,33875637
+12;LT026;6;Šiaulių apskr.;65;65;Pakruojo r. sav.;131520;56,05266848;23,87493246
+13;LT026;6;Šiaulių apskr.;47;47;Joniškio r. sav.;115163;56,24715016;23,50282489
+14;LT023;3;Klaipėdos apskr.;75;75;Skuodo r. sav.;91095;56,21530615;21,68420046
+15;LT026;6;Šiaulių apskr.;32;32;Akmenės r. sav.;84379;56,24159659;22,82259071
+16;LT028;8;Telšių apskr.;61;61;Mažeikių r. sav.;121958;56,26708521;22,28345703
+17;LT025;5;Panevėžio apskr.;36;36;Biržų r. sav.;147579;56,17469915;24,81754028
+18;LT021;1;Alytaus apskr.;15;15;Druskininkų sav.;45301;54,03852843;23,98627173
+19;LT021;1;Alytaus apskr.;59;59;Lazdijų r. sav.;130609;54,17296327;23,64018006
+20;LT021;1;Alytaus apskr.;11;11;Alytaus m. sav.;3943;54,40110618;24,03625066
+21;LT021;1;Alytaus apskr.;38;38;Varėnos r. sav.;221586;54,17729781;24,49984422
+22;LT024;4;Marijampolės apskr.;48;48;Kalvarijos sav.;44026;54,37906346;23,19627031
+23;LT011;10;Vilniaus apskr.;85;85;Šalčininkų r. sav.;149262;54,31625973;25,27327326
+24;LT021;1;Alytaus apskr.;33;33;Alytaus r. sav.;140340;54,39045642;24,03302063
+25;LT022;2;Kauno apskr.;12;12;Birštono sav.;12173;54,56505216;24,02113959
+26;LT024;4;Marijampolės apskr.;18;18;Marijampolės sav.;75486;54,54623812;23,45342475
+27;LT011;10;Vilniaus apskr.;79;79;Trakų r. sav.;120733;54,55061831;24,78223910
+28;LT024;4;Marijampolės apskr.;39;39;Vilkaviškio r. sav.;126201;54,59569731;22,97000987
+29;LT022;2;Kauno apskr.;69;69;Prienų r. sav.;103253;54,63698052;23,97913071
+30;LT011;10;Vilniaus apskr.;13;13;Vilniaus m. sav.;40045;54,69257762;25,27244785
+31;LT011;10;Vilniaus apskr.;42;42;Elektrėnų sav.;50870;54,74709455;24,72378640
+32;LT024;4;Marijampolės apskr.;58;58;Kazlų Rūdos sav.;55453;54,78473185;23,46408522
+33;LT022;2;Kauno apskr.;19;19;Kauno m. sav.;15688;54,89931722;23,93233490
+34;LT022;2;Kauno apskr.;49;49;Kaišiadorių r. sav.;108665;54,83596606;24,41138930
+35;LT011;10;Vilniaus apskr.;41;41;Vilniaus r. sav.;212899;54,76186972;25,39832354
+36;LT024;4;Marijampolės apskr.;84;84;Šakių r. sav.;145375;54,94730665;23,08120222
+37;LT011;10;Vilniaus apskr.;89;89;Širvintų r. sav.;90544;55,01130435;24,92055733
+38;LT022;2;Kauno apskr.;52;52;Kauno r. sav.;149548;54,96891036;23,80462107
+39;LT022;2;Kauno apskr.;46;46;Jonavos r. sav.;94352;55,10760015;24,30810136
+40;LT027;7;Tauragės apskr.;63;63;Pagėgių sav.;53542;55,14737879;21,97904474
+41;LT011;10;Vilniaus apskr.;86;86;Švenčionių r. sav.;169148;55,11395049;26,01818045
+42;LT027;7;Tauragės apskr.;94;94;Jurbarko r. sav.;150615;55,18002895;22,88783090
+43;LT029;9;Utenos apskr.;62;62;Molėtų r. sav.;136683;55,22220638;25,43546023
+44;LT027;7;Tauragės apskr.;77;77;Tauragės r. sav.;117866;55,29361281;22,33011363
+45;LT011;10;Vilniaus apskr.;81;81;Ukmergės r. sav.;139479;55,26694979;24,75990900
+46;LT022;2;Kauno apskr.;53;53;Kėdainių r. sav.;167662;55,33735924;23,93707040
+47;LT022;2;Kauno apskr.;72;72;Raseinių r. sav.;157289;55,38438978;23,21301927
+48;LT023;3;Klaipėdos apskr.;88;88;Šilutės r. sav.;168241;55,37081643;21,53756817
+49;LT029;9;Utenos apskr.;45;45;Ignalinos r. sav.;144083;55,38950881;26,31311534
+50;LT029;9;Utenos apskr.;30;30;Visagino sav.;5808;55,58629054;26,49065968
+51;LT027;7;Tauragės apskr.;87;87;Šilalės r. sav.;118805;55,52768246;22,22093531
+52;LT023;3;Klaipėdos apskr.;23;23;Neringos sav.;13877;55,44302277;21,07699900
+53;LT029;9;Utenos apskr.;82;82;Utenos r. sav.;123020;55,51163264;25,69244405
+54;LT029;9;Utenos apskr.;34;34;Anykščių r. sav.;176411;55,55233636;25,07430406
+55;LT025;5;Panevėžio apskr.;27;27;Panevėžio m. sav.;5016;55,73042978;24,34679299
+56;LT023;3;Klaipėdos apskr.;21;21;Klaipėdos m. sav.;9795;55,70436484;21,15012190
+57;LT028;8;Telšių apskr.;74;74;Rietavo sav.;58562;55,72285882;21,99679089
+58;LT026;6;Šiaulių apskr.;54;54;Kelmės r. sav.;170464;55,67197515;22,86687714
+59;LT026;6;Šiaulių apskr.;71;71;Radviliškio r. sav.;163404;55,69517157;23,63562973
+60;LT023;3;Klaipėdos apskr.;55;55;Klaipėdos r. sav.;132336;55,66247903;21,42873849

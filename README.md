@@ -1,4 +1,4 @@
-# Apie
+# Power BI žemėlapiai
 
 Lietuvos teritorinio administracinio suskirstymo failai skirti naudoti **Microsoft Power BI** platformoje kuriant
 teritorinio užpildymo žemėlapį (angl. ***Choropleth Map***).

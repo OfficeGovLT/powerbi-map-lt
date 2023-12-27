@@ -11,8 +11,8 @@ naudojant esamas ir laisvai prieinamas **Power BI** priemones bei atvirus duomen
 
 # Uždavinys
 
-Sukurti 3 Lietuvos administracinių lygių (apskirtys, savivaldybės ir seniniūnjos) TopoJSON failus pritaikytus
-**Power BI Desktop** įrankyje naudojamame atviro kodo ***Drilldown Choropleth*** žemėlapio vizualizacijos įskiepiui.
+Sukurti trijų Lietuvos administracinių lygių (apskritys, savivaldybės ir seniūnijos) TopoJSON failus pritaikytus
+**Power BI Desktop** įrankyje naudojamame atviro kodo ***Drilldown Choropleth*** žemėlapio vizualizacijos įskiepyje.
 Šių failų sukūrimui naudoti atvirus duomenis.
 
 # Duomenų šaltiniai

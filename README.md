@@ -1,20 +1,19 @@
-# Apie
+# Lietuvos administracinis Power BI žemėlapis  
 
-Lietuvos teritorinio administracinio suskirstymo failai skirti naudoti **Microsoft Power BI** platformoje kuriant
-teritorinio užpildymo žemėlapį (angl. ***Choropleth Map***).
+Lietuvos administracinio suskirstymo žemėlapis skirtas **Microsoft Power BI** platformai (angl. ***Choropleth Map***).
 
 ![image](/examples/LT_choropleth_map.png)
 
 # Tikslas
 
-Turėti galimybę **Microsoft Power BI** platformoje kurti Lietuvos teritorinio administracinio užpildymo žemėlapius
-panaudojant esamas ir laisvai prieinamas **Power BI** priemones bei atvirus duomenis.
+Turėti galimybę **Microsoft Power BI** platformoje kurti Lietuvos administracinio suskirstmo žemėlapius
+naudojant esamas ir laisvai prieinamas **Power BI** priemones bei atvirus duomenis.
 
 # Uždavinys
 
-Sukurti universalius trijų Lietuvos administracinių lygių TopoJSON failus pritaikytus atviro kodo
-***Drilldown Choropleth*** žemėlapio vizualizacijos įskiepiui **Power BI Desktop** aplinkoje. Šių failų sukūrimui
-naudoti atvirų duomenų šaltinius.
+Sukurti 3 Lietuvos administracinių lygių (apskirtys, savivaldybės ir seniniūnjos) TopoJSON failus pritaikytus
+**Power BI Desktop** įrankyje naudojamame atviro kodo ***Drilldown Choropleth*** žemėlapio vizualizacijos įskiepiui.
+Šių failų sukūrimui naudoti atvirus duomenis.
 
 # Duomenų šaltiniai
 
@@ -26,15 +25,15 @@ TopoJSON failų sukūrimui buvo panaudoti šie atvirų duomenų šaltiniai:
 
 # Rezultatai
 
-Sukurti trijų Lietuvos administracinių lygių TopoJSON failai:
+Lietuvos administracinio suskirstymo TopoJSON failai:
 
-| Failas                              |                       Raw nuoroda                       |
+| Failas                              |                       RAW nuoroda kopijavimui                       |
 |-------------------------------------|:-------------------------------------------------------:|
-| LT-apskritys-districts.json         |     [:link:](/topojson/LT-apskritys-districts.json)     |
-| LT-savivaldybes-municipalities.json | [:link:](/topojson/LT-savivaldybes-municipalities.json) |
-| LT-seniunijos-wards.json            |      [:link:](/topojson/LT-seniunijos-wards.json)       |
+| LT-apskritys-districts.json         |     [:link:](https://raw.githubusercontent.com/govlt/powerbi-map-lt/change-project-name/topojson/LT-apskritys-districts.json)    |
+| LT-savivaldybes-municipalities.json | [:link:](https://raw.githubusercontent.com/govlt/powerbi-map-lt/change-project-name/topojson/LT-savivaldybes-municipalities.json) |
+| LT-seniunijos-wards.json            |      [:link:](https://raw.githubusercontent.com/govlt/powerbi-map-lt/change-project-name/topojson/LT-seniunijos-wards.json)       |
 
-Failuose saugomos teritorinio vieneto ribų geografinės koordinatės WGS-84 koordinačių sistemoje ir geografinį objektą
+Failuose saugomos administracinio vieneto ribų geografinės koordinatės WGS-84 koordinačių sistemoje ir objektą
 aprašantys laukai:
 
 ### LT-apskritys-districts.json

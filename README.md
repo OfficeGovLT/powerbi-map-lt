@@ -29,9 +29,9 @@ Lietuvos administracinio suskirstymo TopoJSON failai:
 
 | Failas                              |                       RAW nuoroda kopijavimui                       |
 |-------------------------------------|:-------------------------------------------------------:|
-| LT-apskritys-districts.json         |     [:link:](https://raw.githubusercontent.com/govlt/powerbi-map-lt/change-project-name/topojson/LT-apskritys-districts.json)    |
-| LT-savivaldybes-municipalities.json | [:link:](https://raw.githubusercontent.com/govlt/powerbi-map-lt/change-project-name/topojson/LT-savivaldybes-municipalities.json) |
-| LT-seniunijos-wards.json            |      [:link:](https://raw.githubusercontent.com/govlt/powerbi-map-lt/change-project-name/topojson/LT-seniunijos-wards.json)       |
+| LT-apskritys-districts.json         |     [:link:](https://raw.githubusercontent.com/govlt/powerbi-map-lt/main/topojson/LT-apskritys-districts.json)    |
+| LT-savivaldybes-municipalities.json | [:link:](https://raw.githubusercontent.com/govlt/powerbi-map-lt/main/topojson/LT-savivaldybes-municipalities.json) |
+| LT-seniunijos-wards.json            |      [:link:](https://raw.githubusercontent.com/govlt/powerbi-map-lt/main/topojson/LT-seniunijos-wards.json)       |
 
 Failuose saugomos administracinio vieneto ribų geografinės koordinatės WGS-84 koordinačių sistemoje ir objektą
 aprašantys laukai:
